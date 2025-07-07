@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Jacob M. Garland</h1>
 <h3 align="center">A highly ambitious full stack developer from central Florida, USA.</h3>
 
-- 🔭 I’m currently working on **multiple projects.**
+- 🔭 I’m currently working on **a readme generator and editor tool for repositories.**
 
 - 🌱 I’m currently learning **JavaScript, Rust, and soon Python.**
 
-- 👯 I’m looking to collaborate on **anything you want! Always looking for new learning experiences.**
+- 👯 I’m looking to collaborate on **anything you have! I am always looking for new learning experiences.**
 
-- 🤝 I’m looking for help with **mobile app development.**
+- 🤝 I’m looking for help with **mobile app development for a side project.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jacob-Garland](https://github.com/Jacob-Garland)
+- 👨‍💻 All of my public projects are available at [https://github.com/Jacob-Garland](https://github.com/Jacob-Garland)
 
-- 💬 Ask me about **what projects I'm working on!**
+- 💬 Ask me about **what projects I'm working on or have planned.**
 
-- 📫 How to reach me **jg3prevail@gmail.com**
+- 📫 How to reach me: **jg3prevail@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
